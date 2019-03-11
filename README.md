@@ -1,10 +1,11 @@
 
 ## Docker image for Alpine with Firefox
+[![Docker Image Size (tag)](https://img.shields.io/docker/image-size/hex0cter/alpine-firefox/latest)](https://hub.docker.com/r/hex0cter/alpine-firefox)
 [![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/hex0cter/alpine-firefox)](https://hub.docker.com/r/hex0cter/alpine-firefox/builds)
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/hex0cter/alpine-firefox)](https://hub.docker.com/r/hex0cter/alpine-firefox/builds)
 [![Docker Pulls](https://img.shields.io/docker/pulls/hex0cter/alpine-firefox)](https://hub.docker.com/r/hex0cter/alpine-firefox)
 
-This image allows you to run the Firefox browser inside a docker container.
+This image allows you to run the ***Firefox*** browser inside a docker container. For Chrome please click [here](https://github.com/hex0cter/alpine-chrome).
 
 ## What is included?
 * alpine with X server (use `DEBUG=true` to turn on the vnc server)
