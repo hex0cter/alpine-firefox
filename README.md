@@ -16,7 +16,7 @@ This image allows you to run the ***Firefox*** browser inside a docker container
 
 ## Pull the image
 ```bash
-docker push hex0cter/alpine-firefox:latest
+docker pull hex0cter/alpine-firefox:latest
 ```
 Please visit [docker hub](https://hub.docker.com/repository/docker/hex0cter/alpine-firefox) for more details.
 
