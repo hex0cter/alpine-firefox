@@ -24,7 +24,6 @@ Please visit [docker hub](https://hub.docker.com/repository/docker/hex0cter/alpi
 ```bash
 docker run -it --rm hex0cter/alpine-firefox firefox
 ```
-The `sleep 10` above is to add a small delay to ensure that X server is up and running before starting the browser.
 
 ## Debug mode
 ```bash
